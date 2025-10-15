@@ -33,10 +33,10 @@
 
 ## Design Reference
 
-| Cities Screen | Detail Screen |
-|:---:|:---:|
-| *Grid layout with colorful cards showing temperature and location information* | *Detailed weather view with dynamic background and weekly forecast* |
-| <img src="screenshots/cities_screen.png" alt="Cities Screen" width="300"/> | <img src="screenshots/detail_screen.png" alt="Detail Screen" width="300"/> |
+|                                 Cities Screen                                  |                               Detail Screen                                |
+|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
+| *Grid layout with colorful cards showing temperature and location information* |    *Detailed weather view with dynamic background and weekly forecast*     |
+|   <img src="screenshots/cities_screen.png" alt="Cities Screen" width="300"/>   | <img src="screenshots/detail_screen.png" alt="Detail Screen" width="300"/> |
 
 
 **Important:** We are not looking for a pixel-perfect implementation. Focus on creating a similar visual experience while demonstrating your Android development skills.
