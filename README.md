@@ -24,12 +24,10 @@
 ### 3. Technical Requirements
 
 #### API Integration
-- Use **OpenWeatherMap API** (or any other weather API of your choice)
+- Use **WeatherAPI.com** (https://www.weatherapi.com/)
 
 #### Testing
 - **Unit Tests:** Must
-- **UI Automation Tests:** Good to have
-
 
 ## Design Reference
 
@@ -45,7 +43,6 @@
 
 1. Complete Android application source code
 2. Unit tests with good coverage
-3. UI automation tests (preferred)
 
 ## Resources Provided
 
