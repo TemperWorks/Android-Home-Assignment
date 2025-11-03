@@ -27,7 +27,7 @@
 - Use **WeatherAPI.com** (https://www.weatherapi.com/)
 
 #### Testing
-- **Unit Tests:** Must
+- **Unit Tests:** Must have
 
 ## Design Reference
 
