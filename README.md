@@ -19,6 +19,7 @@
   - Weekly forecast (7 days)
 - **Dynamic Background:** Background image should change based on current weather conditions
 - **Weather Icons:** Use provided weather icons for current conditions and weekly forecast
+- **Caching:** In case the user has no internet connection the app should show a warning and the latest cached results.
 - Navigation back to cities screen
 
 ### 3. Technical Requirements
